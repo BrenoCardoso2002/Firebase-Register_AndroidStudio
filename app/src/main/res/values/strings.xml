@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Register With Firebase</string>
+    <string name="register">Cadastro</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="insira_o_seu_e_mail">Insira o seu e-mail:</string>
+    <string name="senha">Senha:</string>
+    <string name="insira_a_sua_senha">Insira a sua senha:</string>
+    <string name="realizar_cadastro">Realizar cadastro</string>
+    <string name="rsenha">Repetir senha:</string>
+    <string name="logout">logout</string>
+</resources>
